@@ -86,8 +86,8 @@ docs:
 
 extension_star_count: 9
 extension_star_count_pretty: 9
-extension_download_count: 799
-extension_download_count_pretty: 799
+extension_download_count: 829
+extension_download_count_pretty: 829
 image: '/images/community_extensions/social_preview/preview_community_extension_poached.png'
 layout: community_extension_doc
 ---
